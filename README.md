@@ -2,6 +2,8 @@
 
 A simple pixel art generator created with PyQt5.
 
+![image](img/image.png)
+
 ## Features  
 
 Creation of pixel art images  
