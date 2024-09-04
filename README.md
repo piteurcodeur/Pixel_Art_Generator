@@ -2,7 +2,7 @@
 
 A simple pixel art generator created with PyQt5.
 
-![image](img/image.png)
+<img src="img/image.png" alt="Logo" width="500" height="500">
 
 ## Features  
 
